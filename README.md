@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fulloww AKA (atar)
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning computer science and kotlin
+- 👀 I’m interested in EVERYTHING
+- 🌱 I’m currently learning computer science and front end web development
 - 📫 contact me on instagram @athar_rn
 
 <!---
